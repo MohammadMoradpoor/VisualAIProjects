@@ -7,52 +7,52 @@ This repository contains various projects related to computer vision and artific
 ### DogCatClassifier
 
 - **Description:** This project is a deep learning model that can classify images of dogs and cats.
-- **Repository:** [DogCatClassifier](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/DogCatClassifier)
+- **Link:** [DogCatClassifier](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/DrowsinessDetection)
 
 ### DrowsinessDetection
 
 - **Description:** This project detects drowsiness in drivers using computer vision techniques.
-- **Repository:** [DrowsinessDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/DrowsinessDetection)
+- **Link:** [DrowsinessDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/DrowsinessDetection)
 
 ### FaceMaskDetection
 
 - **Description:** This project detects whether a person is wearing a face mask or not in real-time.
-- **Repository:** [FaceMaskDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/FaceMaskDetection)
+- **Link:** [FaceMaskDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/FaceMaskDetection)
 
 ### FlowerClassifier17
 
 - **Description:** This project is a deep learning model that classifies images of flowers into 17 different categories.
-- **Repository:** [FlowerClassifier17](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/FlowerClassifier17)
+- **Link:** [FlowerClassifier17](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/FlowerClassifier17)
 
 ### HousingPricePrediction
 
 - **Description:** This project predicts housing prices using machine learning algorithms.
-- **Repository:** [HousingPricePrediction](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/HousingPricePrediction)
+- **Link:** [HousingPricePrediction](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/HousingPricePrediction)
 
 ### ImageSegmentationAI
 
 - **Description:** This project performs image segmentation using advanced deep learning techniques.
-- **Repository:** [ImageSegmentationAI](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/ImageSegmentationAI)
+- **Link:** [ImageSegmentationAI](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/ImageSegmentationAI)
 
 ### SatelliteImageClustering
 
 - **Description:** This project applies clustering algorithms to satellite images for analyzing patterns.
-- **Repository:** [SatelliteImageClustering](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/SatelliteImageClustering)
+- **Link:** [SatelliteImageClustering](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/SatelliteImageClustering)
 
 ### TransformerObjectDetection
 
 - **Description:** This project utilizes transformer-based models for object detection in images.
-- **Repository:** [TransformerObjectDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/TransformerObjectDetection)
+- **Link:** [TransformerObjectDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/TransformerObjectDetection)
 
 ### WebcamImageRecognition
 
 - **Description:** This project performs real-time image recognition using a webcam feed.
-- **Repository:** [WebcamImageRecognition](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/WebcamImageRecognition)
+- **Link:** [WebcamImageRecognition](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/WebcamImageRecognition)
 
 ### XrayDiseaseDetection
 
 - **Description:** This project uses deep learning to detect diseases from X-ray images.
-- **Repository:** [XrayDiseaseDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/XrayDiseaseDetection)
+- **Link:** [XrayDiseaseDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/XrayDiseaseDetection)
 
 ## Getting Started
 
