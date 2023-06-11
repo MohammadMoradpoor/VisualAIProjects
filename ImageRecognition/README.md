@@ -1,4 +1,4 @@
-# Webcam Image Recognition
+# Image Recognition
 
 This project utilizes image recognition techniques to perform predictions on images and video streams using the ResNet152 model. It can be used to identify objects and scenes in real-time using a webcam or process individual images.
 
@@ -20,10 +20,10 @@ This project utilizes image recognition techniques to perform predictions on ima
     ```
 
 3. Ensure that your webcam is connected and accessible by the application.
-4. Run the script `WebcamImageRecognition.py` to start the webcam image recognition process.
+4. Run the script `ImageRecognition.py` to start the webcam image recognition process.
 
     ```bash
-    python WebcamImageRecognition.py
+    python ImageRecognition.py
     ```
 
 5. The application will open a window displaying the webcam feed.
@@ -32,7 +32,7 @@ This project utilizes image recognition techniques to perform predictions on ima
 
 ## Single Image Prediction
 
-To perform predictions on a single image, you can modify the code in the `WebcamImageRecognition.py` file as follows:
+To perform predictions on a single image, you can modify the code in the `ImageRecognition.py` file as follows:
 
 ```python
 # Path to the image file
