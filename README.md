@@ -44,10 +44,10 @@ This repository contains various projects related to computer vision and artific
 - **Description:** This project utilizes transformer-based models for object detection in images.
 - **Link:** [TransformerObjectDetection](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/TransformerObjectDetection)
 
-### WebcamImageRecognition
+### ImageRecognition
 
 - **Description:** This project performs real-time image recognition using a webcam feed.
-- **Link:** [WebcamImageRecognition](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/WebcamImageRecognition)
+- **Link:** [ImageRecognition](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/ImageRecognition)
 
 ### XrayDiseaseDetection
 
