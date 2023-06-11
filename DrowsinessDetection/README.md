@@ -4,7 +4,7 @@ Drowsiness detection is a safety technology that can prevent accidents caused by
 
 ## Application Demo
 
-![Drowsiness Detection](DrowsinessDetection1.gif)
+![Drowsiness Detection](DrowsinessDetection.gif)
 
 ## Objective
 
