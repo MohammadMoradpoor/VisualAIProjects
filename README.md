@@ -57,9 +57,10 @@ This repository contains various projects related to computer vision and artific
 ## Getting Started
 
 To get started with the projects in this repository, you can clone the repository locally by running the following command:
-```
-git clone https://github.com/username/VisualAIProjects.git
-```
+
+    ```
+    git clone https://github.com/username/VisualAIProjects.git
+    ```
 
 Make sure you have Git installed on your system. After cloning the repository, you can navigate to each project's directory and explore the code.
 
@@ -72,5 +73,3 @@ Contributions to this repository are welcome. If you would like to contribute, p
 - Make your changes and commit them with descriptive commit messages.
 - Push your changes to your forked repository.
 - Submit a pull request detailing your changes.
-
-
