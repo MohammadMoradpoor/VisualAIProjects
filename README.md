@@ -29,10 +29,10 @@ This repository contains various projects related to computer vision and artific
 - **Description:** This project predicts housing prices using machine learning algorithms.
 - **Link:** [HousingPricePrediction](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/HousingPricePrediction)
 
-### ImageSegmentationAI
+### SegmentAnythingAI
 
 - **Description:** This project performs image segmentation using advanced deep learning techniques.
-- **Link:** [ImageSegmentationAI](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/ImageSegmentationAI)
+- **Link:** [SegmentAnythingAI](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/SegmentAnythingAI)
 
 ### SatelliteImageClustering
 
