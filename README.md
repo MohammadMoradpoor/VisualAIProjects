@@ -7,7 +7,7 @@ This repository contains various projects related to computer vision and artific
 ### DogCatClassifier
 
 - **Description:** This project is a deep learning model that can classify images of dogs and cats.
-- **Link:** [DogCatClassifier](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/DrowsinessDetection)
+- **Link:** [DogCatClassifier](https://github.com/MohamadsalehMoradpoor/VisualAIProjects/tree/master/DogCatClassifier)
 
 ### DrowsinessDetection
 
