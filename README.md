@@ -58,9 +58,9 @@ This repository contains various projects related to computer vision and artific
 
 To get started with the projects in this repository, you can clone the repository locally by running the following command:
 
-    ```bash
-    git clone https://github.com/MohammadMoradpoor/VisualAIProjects.git
-    ```
+```bash
+git clone https://github.com/MohammadMoradpoor/VisualAIProjects.git
+```
 
 Make sure you have Git installed on your system. After cloning the repository, you can navigate to each project's directory and explore the code.
 
